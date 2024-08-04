@@ -6,3 +6,4 @@ elasticsearch
 scikit-learn
 pandas
 sentence_transformers==2.7.0
+rouge==1.0.1
